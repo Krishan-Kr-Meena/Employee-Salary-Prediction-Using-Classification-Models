@@ -18,3 +18,6 @@ A user-friendly Streamlit web app that predicts employee salaries based on Age, 
 - **Data Handling**: Pandas, NumPy
 - **Visualizations**: Matplotlib, Seaborn
 - **Deployment**: Streamlit Cloud / Localhost
+
+## 🔗 View App
+**Employee-Salary-Prediction-Using-Classification-Models**: [Employee Salary Prediction](https://7f069660b290.ngrok-free.app/)
