@@ -6,7 +6,7 @@ A user-friendly Streamlit web app that predicts employee salaries based on Age, 
 
 ## 🚀 Features
 
-- 🔮 **Predict Salary**: Estimate annual and monthly salary based on user input.
+- 🔮 **Predict Salary**: Estimate whether an employee earns >50K or ≤50K based on input features.
 - 📁 **Bulk CSV Upload**: Upload CSV files to predict salaries for multiple employees at once.
 - 📊 **Visualize Data**: Explore salary distributions, box plots by education, correlation heatmaps, and more.
 - 📈 **Model Performance Dashboard**: Evaluate the model with Accuracy, Precision, Specificity, pecificity, Recall, F1-Score.
