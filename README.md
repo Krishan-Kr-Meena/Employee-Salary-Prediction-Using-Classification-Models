@@ -20,4 +20,4 @@ A user-friendly Streamlit web app that predicts employee salaries based on Age, 
 - **Deployment**: Streamlit Cloud / Localhost
 
 ## 🔗 View App
-**Employee-Salary-Prediction-Using-Classification-Models**: [Employee Salary Prediction](https://7f069660b290.ngrok-free.app/)
+**Employee-Salary-Prediction-Using-Classification-Models**: [Employee Salary Prediction](https://ed744f1d941a.ngrok-free.app/)
